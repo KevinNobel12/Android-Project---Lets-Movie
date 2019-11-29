@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FBC02D</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Darkorange">#DFA748</color>
+    <color name="Lightorange">#FBC02D</color>
+    <color name="cream">#FFFFFF</color>
+    <color name="grey">#706F6C</color>
+    <color name="mehroon">#CE6635</color>
+
+</resources>
